@@ -1,0 +1,14 @@
+{
+  "name": "transport-fever3-top",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "transport-fever3.top",
+      "custom_domain": true
+    }
+  ]
+}
