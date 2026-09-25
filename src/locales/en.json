@@ -6,7 +6,18 @@
     "description": "Transport Fever 3 Wiki provides vehicle lists, beginner guides, gameplay tips, maps, economy strategies and detailed information for building transport networks.",
     "legalNotice": "Non-official fan wiki. Transport Fever 3 is a trademark of Urban Games and Paradox Interactive. All game assets belong to their respective owners."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "guide": "Guides",
+    "mechanics": "Mechanics",
+    "vehicles": "Vehicles",
+    "editions": "Editions",
+    "platforms": "Platforms",
+    "release": "Release",
+    "mods": "Mods",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Transport Fever 3 Wiki - Vehicles, Guides & Maps",
@@ -387,7 +398,6 @@
       "secondary": "Pre-order on Steam"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -423,5 +433,33 @@
     "buildGuide": "Route Strategy",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Transport Fever 3 Guides & Walkthroughs",
+    "overviewDescription": "Comprehensive beginner guides, campaign walkthroughs, transit planning tips, and optimal transport route strategies for Transport Fever 3."
+  },
+  "mechanics": {
+    "overviewTitle": "Transport Fever 3 Gameplay Mechanics",
+    "overviewDescription": "In-depth breakdown of economy systems, cargo chains, passenger traffic flow, multi-track signaling, and multiplayer co-op mechanics."
+  },
+  "vehicles": {
+    "overviewTitle": "Transport Fever 3 Vehicle Catalog & Database",
+    "overviewDescription": "Complete vehicle roster featuring steam, diesel, and electric trains, trams, buses, cargo trucks, transport ships, and cargo aircraft across historical eras."
+  },
+  "editions": {
+    "overviewTitle": "Transport Fever 3 Game Editions & Pre-Orders",
+    "overviewDescription": "Comparison of Standard, Deluxe, and Collector's Editions, pre-order bonuses, exclusive bonus vehicles, and Steam key activation guides."
+  },
+  "platforms": {
+    "overviewTitle": "Transport Fever 3 Platforms & System Requirements",
+    "overviewDescription": "Hardware specifications, PC system requirements, Steam Deck compatibility, Mac support, and PlayStation 5 and Xbox Series X/S console details."
+  },
+  "release": {
+    "overviewTitle": "Transport Fever 3 Release Date & Latest News",
+    "overviewDescription": "Official launch schedules, announcements, beta testing phases, trailer breakdowns, pricing details, and publisher roadmaps for Transport Fever 3."
+  },
+  "mods": {
+    "overviewTitle": "Transport Fever 3 Mods & Steam Workshop",
+    "overviewDescription": "Essential modding guides, Steam Workshop integration, custom map sizes, enhanced traffic mods, and community modding tools for Transport Fever 3."
   }
 }

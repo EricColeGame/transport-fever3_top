@@ -1,0 +1,141 @@
+export const metadata = {
+  title: "Transport Fever 3 Kartengrößen-Guide: Maßstab, Limits und Modding",
+  description: "Entdecken Sie die neuen Optionen für Kartengrößen in Transport Fever 3, knotenbasierte Geländegenerierung, Konsolenlimits und Performance-Tipps für riesige Verkehrsnetze.",
+  category: "mods",
+  date: "2026-09-24",
+}
+
+Bei der Planung eines weitläufigen Verkehrsimperiums bestimmt die gesamte verfügbare Landfläche jede Fernverkehrs-Hauptstrecke, jede Passumgehung und jeden regionalen Fracht-Hub, den Sie errichten. Das Verständnis der erwarteten Optionen für die **Transport Fever 3 Kartengröße** ist sowohl für Gelegenheits-Streckenbauer als auch für akribische Netzwerkingenieure, die realistische Reisezeiten anstreben, von entscheidender Bedeutung. Da Urban Games seine Umgebungstechnologie für die nächste Generation von Logistiksimulationen grundlegend überarbeitet, sorgt die Beherrschung Ihrer Einstellungen für die **Transport Fever 3 Kartengröße** für reibungslose Bildraten, ohne dass Sie auf Ihre ambitioniertesten Infrastrukturpläne verzichten müssen.
+
+Von knotenbasierter Geländegenerierung über Heightmap-Importe bis hin zur Konsolen-Parität bestimmt der Gebietsmaßstab, wie Industrien interagieren und wie sich Städte ausbreiten. Im Folgenden schlüsseln wir alles auf, was Sie über spielbare Dimensionen, Performance-Skalierung und das Modden Ihrer Karten im kommenden Titel wissen müssen.
+
+---
+
+## Entwicklung der Kartenskalierung: Transport Fever 2 vs. Transport Fever 3
+
+In *Transport Fever 2* hatten Spieler Zugriff auf Standardkartengrößen von Klein (Seitenverhältnis 1:1 bei etwa 4 km × 4 km) bis hin zu Sehr Groß (16 km × 16 km oder Seitenverhältnisse bis zu 1:5 wie 7 km × 36 km). PC-Spieler konnten über die Konfigurationsdatei zudem „experimentelle Kartengrößen“ aktivieren und damit Größenwahnsinnig-Dimensionen (Megalomaniac) freischalten, die im 1:1-Format 24 km × 24 km erreichten. Obwohl diese kolossalen Karten eine beispiellose Streckentiefe boten, stießen sie an die technischen Grenzen der damaligen Engine, was im späten Spielverlauf häufig zu Simulationsrucklern führte.
+
+Die Betrachtung der grundlegenden Architektur der **Transport Fever 3 Kartengröße** offenbart einen bedeutenden Paradigmenwechsel. Anstatt sich auf einfache prozedurale Höhenraster zu verlassen, hat Urban Games die Gelände-Engine mithilfe knotenbasierter Umgebungstechnologie neu aufgebaut. Dies ermöglicht es der Simulation, riesige Territorien mit vielfältigen regionalen Mikroklimata auf einer einzigen Landmasse darzustellen, ohne die Systemressourcen auf die gleiche rechenintensive Art zu belasten.
+
+Die folgende Tabelle zeigt, wie sich die Kartenabmessungen und Seitenverhältnisse zwischen beiden Titeln entwickelt haben:
+
+| Generation / Dimension | Seitenverhältnis-Optionen | Geschätzte Abmessungen (km) | Fläche (km²) | Performance-Auswirkung |
+| :--- | :--- | :--- | :--- | :--- |
+| **TF2 Klein** | 1:1, 1:2, 1:3 | 4 × 4 / 3 × 6 | ~16 | Minimal (Ideal zum Testen) |
+| **TF2 Mittel** | 1:1, 1:2, 1:3 | 6 × 6 / 4 × 8 | ~36 | Gering (Einsteiger-PCs) |
+| **TF2 Groß** | 1:1, 1:2, 1:3 | 8 × 8 / 6 × 12 | ~64 | Moderat (Ausgewogenes Spiel) |
+| **TF2 Sehr Groß** | 1:1, 1:2, 1:4, 1:5 | 16 × 16 / 7 × 36 | ~256 | Hoch (Erfordert solide CPU) |
+| **TF2 Größenwahnsinnig (Exp.)** | 1:1, 1:2, 1:4, 1:5 | 24 × 24 / 11 × 54 | ~576 | Extrem (Starke Ruckler im Late-Game) |
+| **TF3 Standard Mittel** | 1:1, 1:2, 1:3 | 8 × 8 / 6 × 12 | ~64 | Gut optimiert (Neue Basis) |
+| **TF3 Weitläufig / Kontinental** | 1:1, 1:2, 1:4 | 16 × 16 / 10 × 40 | ~256–400 | Moderat bis hoch |
+| **TF3 Benutzerdefiniert / Gemoddet** | Dynamisch knotenbasiert | Bis zu 32 × 32 (Prognostiziert) | Bis zu 1.024 | Hardwareabhängig |
+
+Durch den Wechsel zu knotenbasierten Layouts erhalten die Spieler Zugang zu langgestreckten Korridoren, die echte Expresszug-Fahrzeiten ermöglichen. Anstatt dass Hochgeschwindigkeitszüge ihre Höchstgeschwindigkeit nur für zehn Sekunden erreichen, bevor sie bereits für den nächsten Bahnhof abbremsen müssen, erlauben Karten höherer Kategorien, Züge über realistische Distanzen mit voller Geschwindigkeit fahren zu lassen.
+
+---
+
+## Knotenbasierte Generierung und Umgebungsgrenzen in Transport Fever 3
+
+Die herausragende Verbesserung, die in frühen Vorabberichten vorgestellt wurde, betrifft die Art und Weise, wie das Spiel Landschaften konstruiert. Wie in [Simulation Daily's coverage of Transport Fever 3](https://simulationdaily.com/news/transport-fever-3-showcases-environements/) hervorgehoben wird, wurde das System zur Kartengenerierung mithilfe knotenbasierter Systeme vollständig überarbeitet. Diese Technologie ermöglicht es, unterschiedliche Biome, Höhenunterschiede und Klimazonen nahtlos auf einer einzigen Landmasse ineinander übergehen zu lassen.
+
+In früheren Spielen galt ein tropisches oder gemäßigtes Thema stets global für die gesamte Karte. In *Transport Fever 3* kann eine weitläufige Karte trockene Wüstentäler aufweisen, die in alpine Kämme aufsteigen und schließlich sanft zu üppigen Küstenmündungen abfallen.
+
+| Biom & Geländemerkmal | Auswirkung auf spielbare Fläche | Baukosten-Multiplikator | Netzwerkstrategie |
+| :--- | :--- | :--- | :--- |
+| **Küsten-Ästuar** | Moderat (Wasserbarrieren) | 1,1x – 1,3x | Fährverbindungen, lange Hängebrücken |
+| **Gemäßigte Ebenen** | Maximal (Flaches, offenes Gelände) | 1,0x (Standard-Basis) | Viergleisige Hochgeschwindigkeits-Hauptstrecken |
+| **Aride Hochebenen** | Hoch (Tiefe Canyons) | 1,2x – 1,5x | Viadukte, kurvenreiche Strecken entlang der Höhenlinien |
+| **Alpine Gebirgszüge** | Gering (Starke Steigungen) | 2,0x – 3,5x | Kehrtunnel, Zahnradbahn-Strecken |
+| **Übergangsbiome** | Dynamisch (Variables Gelände) | 1,3x – 1,8x | Gemischte regionale Drehkreuze und Spitzkehren |
+
+Da die Geografie organische, physische Engpässe schafft, heben Spielerfahrungen und Community-Berichte hervor, dass die Kartengröße nicht mehr nur von der reinen Quadratkilometerzahl abhängt. Eine gebirgige Karte mit 64 km² kann sich weitaus größer anfühlen und logistisch anspruchsvoller zu meistern sein als eine flache Ebene von 256 km², da die Streckenführung ein durchdachtes Steigungsmanagement, Kehren und teure Tunnelbauten erfordert.
+
+---
+
+## Modding von Kartengrößen: Eigene Dimensionen und Heightmap-Importe
+
+Ersteller von benutzerdefinierten Inhalten sind das Herzstück der Reihe, und das Modden von Karten bleibt ein zentraler Schwerpunkt. In *Transport Fever 3* ermöglicht es der integrierte Karteneditor den Spielern, Geländeformen von Grund auf neu zu modellieren oder digitale Höhenmodelle (DEM) aus der realen Welt über 16-Bit-Graustufen-Heightmaps zu importieren.
+
+Modder, die eigene Heightmaps vorbereiten, müssen die angestrebte **Transport Fever 3 Kartengröße** im Auge behalten, um realistische Geländekonturen beizubehalten. Für Spieler, die maximale Geländeflächen suchen, wird die Anpassung der standardmäßigen **Transport Fever 3 Kartengröße** über Konfigurationsdateien erneut nicht-standardisierte Dimensionen freischalten. Eine Skalierung über die Standard-Presets hinaus erfordert jedoch ein umsichtiges Hardware-Management.
+
+Die folgende Tabelle gibt Aufschluss über die empfohlene Hardwareausstattung beim Laden größerer Kartenkategorien:
+
+| Ziel-Maßstab / Voreinstellung | Empfohlener Arbeitsspeicher (RAM) | Dedizierter VRAM | CPU-Kernziel | Ziel-Framerate (Late-Game) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Klein bis Mittel (Standard)** | 16 GB DDR4/DDR5 | 6 GB VRAM | 6 Kerne / 12 Threads | 60+ FPS |
+| **Groß (Regionales Netzwerk)** | 32 GB DDR5 | 8 GB VRAM | 8 Kerne / 16 Threads | 50–60 FPS |
+| **Sehr Groß (Biomübergreifend)** | 32 GB DDR5 | 12 GB VRAM | 8 Kerne / 16 Threads | 40–50 FPS |
+| **Größenwahnsinnig / Gemoddet** | 64 GB DDR5 | 16 GB+ VRAM | 12+ Kerne | 30–45 FPS |
+| **Ultra Custom (32×32 Knoten)** | 64 GB+ DDR5 | 24 GB VRAM | Enthusiasten-Klasse | Experimentell / Variabel |
+
+Berichte aus der Community deuten darauf hin, dass die Konfiguration einer experimentellen **Transport Fever 3 Kartengröße** erheblichen VRAM beansprucht, insbesondere beim Laden hochauflösender Bodentexturen und umfangreicher Vegetationspakete über große Sichtweiten hinweg. Wenn Ihrem System der Speicher ausgeht, sinken die Bildraten der Simulations-Engine spürbar, sobald Sie herauszoomen, um Ihr gesamtes Schienennetz zu überblicken.
+
+---
+
+## Strategische Planung: Spielmodi an die Kartengröße anpassen
+
+Die Wahl Ihres Spielfelds ist nicht rein technischer Natur; sie verändert die Spielbalance in den drei bestätigten Spielmodi grundlegend: Tycoon-Modus, Kampagnen-Modus und Sandbox-Modus.
+
+| Kartengrößen-Kategorie | Idealer Spielmodus | Wirtschaftliche Herausforderung | Primäres Logistikziel |
+| :--- | :--- | :--- | :--- |
+| **Kompakt (Klein)** | Tycoon-Modus (Schwer) | Extreme finanzielle Engpässe zu Beginn | Lokale Buslinien, Nebenstrecken über kurze Distanzen |
+| **Ausgewogen (Mittel)** | Kampagne & Tycoon | Moderater anfänglicher Kapitaldruck | Intercity-Pendlerstrecken, direkte Lieferketten |
+| **Weitläufig (Groß)** | Tycoon & Sandbox | Hoher Kapitalbedarf für Schienenverbindungen | Hub-and-Spoke-Güterverteilung, Güterbahnhöfe |
+| **Episch (Sehr Groß)** | Sandbox & Late-Game-Tycoon | Massive Distanzkosten, wenig Startkapital | Transkontinentale Expresszüge, regionale Luftkorridore |
+| **Extrem Gemoddet** | Sandbox-Modus | Unendlich- / Kreativmodus empfohlen | Realistische Nachbildungen ganzer Länder oder Staaten |
+
+Bei der Planung Ihres ersten Verkehrsnetzes verhindert die Abstimmung Ihrer Flottenstrategie auf die gewählte **Transport Fever 3 Kartengröße** den wirtschaftlichen Zusammenbruch. Lange Strecken, auf denen Fahrzeuge leer verkehren, leeren Ihr Startkapital im Tycoon-Modus rapide. Mittelgroße Spielumgebungen stellen daher den idealen Mittelweg für strategisches Wirtschaften dar.
+
+---
+
+## Optimierung von Netzwerklayouts auf großen Karten
+
+Auf riesigen Karten erweisen sich traditionelle Punkt-zu-Punkt-Verbindungen als höchst ineffizient. Wenn Städte wachsen und der Ressourcenbedarf auf Tausende Einheiten pro Monat ansteigt, müssen Sie gestaffelte Verkehrshierarchien etablieren.
+
+```
+[Lokales Zubringernetz] ---> [Regionaler Fracht-Hub] ---> [Express-Hauptstrecke] ---> [Zielstadt]
+```
+
+Ohne ein strukturiertes Vertriebsnetz fahren Züge am Ende halb leer über weite Distanzen und verursachen hohe Betriebskosten bei minimalem Ertrag. Die folgende Tabelle veranschaulicht, wie Verkehrsarten über verschiedene Distanzen auf weitläufigen Karten strukturiert werden sollten:
+
+| Entfernungsbereich (im Spiel) | Optimales Transportmittel | Empfohlenes Rollmaterial | Infrastruktur-Priorität |
+| :--- | :--- | :--- | :--- |
+| **0 – 3 km (Innerstädtisch)** | Straßenbahnen, Stadtbusse, Stadtbahn | Kapazitätsstarke elektrische Straßenbahnen | Eigene Bus-/Tramspuren, Ringstraßen |
+| **3 – 8 km (Vorortverkehr)** | Dieseltriebwagen (DMU) / Pendlerzüge | Beschleunigungsstarke Triebzüge | Höhenfreie Kreuzungen, Ausweichgleise |
+| **8 – 20 km (Intercity)** | Lokbespannte Elektrozüge / Fernbahn | Schnelle Elektrolokomotiven | Zweigleisiger Ausbau, Blocksignal-Optimierung |
+| **20 – 40+ km (Kartenweit)** | Hochgeschwindigkeits-Express (Bullet Train) | Aerodynamische Zuggarnituren (200–300+ km/h) | Eigene Umgehungsgleise, Überwerfungsbauwerke |
+| **Große Wasserflächen / Inseln** | Frachtschiffe & Regionalflugzeuge | Containerschiffe & Passagierflugzeuge | Tiefseehäfen, internationale Flughäfen mit zwei Startbahnen |
+
+Die Umsetzung von Hub-and-Spoke-Strukturen verhindert Schienenüberlastungen an zentralen Kopfbahnhöfen. Fracht sollte von abgelegenen Rohstoffquellen zu konsolidierten Verteilzentren am Stadtrand transportiert werden, bevor sie auf lokale Liefer-Lkw umgeladen wird.
+
+---
+
+## Plattformunterschiede: PC- vs. Konsolen-Kartendimensionen
+
+Da *Transport Fever 3* für PC (Steam), PlayStation 5 und Xbox Series X|S erscheint, spielen Hardware-Einschränkungen eine direkte Rolle bei der Verfügbarkeit von Kartengrößen. Während moderne Konsolen über schnelle SSD-Speicher und einheitliche Speicherarchitekturen verfügen, bieten PC-Plattformen durch direkte Dateimanipulation und Community-Mods weitaus tiefgreifendere Anpassungsmöglichkeiten.
+
+| Feature / Funktion | PC (Steam) | PlayStation 5 | Xbox Series X | Xbox Series S |
+| :--- | :--- | :--- | :--- | :--- |
+| **Standard-Kartenvorlagen** | Voller Zugriff (Klein bis Sehr Groß) | Voller Zugriff | Voller Zugriff | Klein bis Mittel als Standard |
+| **Heightmap-Importe** | Unbegrenzt über lokale Bilddateien | Kuratierter Browser / Mod-Hub | Kuratierter Browser / Mod-Hub | Eingeschränkte Auswahl |
+| **Experimentelle Dateianpassungen** | Ja (manuelle Überschreibungen) | Nein | Nein | Nein |
+| **Anpassung des Seitenverhältnisses** | Vollständige Freiheit (1:1 bis 1:5+) | Nur Voreinstellungen | Nur Voreinstellungen | Nur Voreinstellungen |
+| **Gemoddete Geländeelemente** | Vollständige Steam Workshop-Anbindung | Ausgewählte, geprüfte Assets | Ausgewählte, geprüfte Assets | Streng optimierte Assets |
+
+Während Konsolen die Kernfunktionen teilen, können Hardwarebeschränkungen die maximalen Voreinstellungen für die **Transport Fever 3 Kartengröße** limitieren, um eine gleichbleibende Framerate während komplexer Simulationen im Late-Game zu gewährleisten. Konsolenspieler werden weiterhin große Karten mit mehreren Biomen genießen können, aber PC-Enthusiasten behalten bei ultrabreiten, nicht-standardisierten Abmessungen die Nase vorn.
+
+---
+
+## Häufig gestellte Fragen zur Transport Fever 3 Kartengröße
+
+### Was ist die standardmäßig maximal unterstützte Transport Fever 3 Kartengröße?
+Urban Games bietet von Haus aus Standardgrößen bis hin zu „Sehr Groß“ an, mit Dimensionen von etwa 16 km × 16 km oder gestreckten Seitenverhältnissen, die bis zu 400 km² abdecken. Diese Standardoptionen sind so ausbalanciert, dass sie eine hohe Simulationsstabilität und flüssige Performance über mehrere Epochen hinweg gewährleisten.
+
+### Können Mods auf dem PC eine experimentelle Transport Fever 3 Kartengröße freischalten?
+Ja. Auf dem PC können Spieler interne Konfigurationsdateien anpassen oder Mod-Skripte herunterladen, um experimentelle Gebietsabmessungen freizuschalten. Dadurch können Enthusiasten mit High-End-PCs Größenwahnsinnig- und benutzerdefinierte knotenbasierte Karten von bis zu 32 km × 32 km (über 1.000 km²) generieren. Dies erfordert jedoch Spitzen-CPUs und reichlich Arbeitsspeicher, um Simulationseinbrüche zu vermeiden.
+
+### Wie wirkt sich das neue knotenbasierte Geländesystem auf die Kartengenerierung aus?
+Anstatt ein einzelnes, einheitliches Klima auf die gesamte generierte Fläche anzuwenden, verbindet das knotenbasierte System dynamisch mehrere Biome – wie Wüstentäler, gemäßigte Ebenen und schneebedeckte Gipfel – nahtlos auf derselben Karte. Dadurch entstehen organische, natürliche Hindernisse und unverwechselbare geografische Regionen, die jede neue Kampagne oder jedes Sandbox-Spiel einzigartig machen.
+
+### Werden Konsolenversionen die gleichen Kartengrößen unterstützen wie die PC-Version?
+Die PlayStation 5 und die Xbox Series X werden die Standardpalette der Standardgrößen unterstützen, einschließlich großer Umgebungen mit mehreren Biomen. Konsolenplattformen bieten jedoch keine Unterstützung für experimentelle Dateiänderungen zur Freischaltung unbegrenzter Kartengrößen, und die Xbox Series S nutzt möglicherweise angepasste Dichteeinstellungen, um eine stabile Performance aufrechtzuerhalten.

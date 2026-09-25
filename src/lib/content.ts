@@ -237,39 +237,65 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
-  guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  guide: "Guides",
+  mechanics: "Mechanics",
+  vehicles: "Vehicles",
+  editions: "Editions",
+  platforms: "Platforms",
+  release: "Release",
+  mods: "Mods",
+};
+
+// 德文分组标题映射
+const GROUP_TITLES_DE: Record<string, string> = {
+  guide: "Leitfäden",
+  mechanics: "Mechaniken",
+  vehicles: "Fahrzeuge",
+  editions: "Editionen",
+  platforms: "Plattformen",
+  release: "Veröffentlichung",
+  mods: "Mods",
+};
+
+// 中文分组标题映射
+const GROUP_TITLES_ZH_CN: Record<string, string> = {
+  guide: "指南攻略",
+  mechanics: "游戏机制",
+  vehicles: "载具图鉴",
+  editions: "版本区别",
+  platforms: "支持平台",
+  release: "发售情报",
+  mods: "模组扩展",
 };
 
 // 日文分组标题映射
 const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+  guide: "攻略ガイド",
+  mechanics: "ゲーム機能",
+  vehicles: "車両図鑑",
+  editions: "エディション",
+  platforms: "対応機種",
+  release: "発売情報",
+  mods: "MOD関連",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
+  de: GROUP_TITLES_DE,
+  "zh-CN": GROUP_TITLES_ZH_CN,
   ja: GROUP_TITLES_JA,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
+  de: "Übersicht",
+  "zh-CN": "概览",
   ja: "一覧",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "mechanics", "vehicles", "editions", "platforms", "release", "mods",
 ];
 
 /**
