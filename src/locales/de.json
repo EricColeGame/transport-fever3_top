@@ -1,1 +1,473 @@
-{}
+{
+  "site": {
+    "name": "Transport Fever 3 Wiki",
+    "shortName": "Transport Fever 3",
+    "tagline": "Der ultimative Transport Fever 3 Strategie- & Fahrzeug-Guide",
+    "description": "Das Transport Fever 3 Wiki bietet Fahrzeuglisten, Einsteiger-Guides, Gameplay-Tipps, Karten, Wirtschaftsstrategien und detaillierte Anleitungen zum Aufbau von Verkehrsnetzen.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Transport Fever 3 ist eine Marke von Urban Games und Paradox Interactive. Alle Spielressourcen gehören ihren jeweiligen Eigentümern."
+  },
+  "nav": {
+    "home": "Startseite",
+    "guide": "Guides",
+    "mechanics": "Mechaniken",
+    "vehicles": "Fahrzeuge",
+    "editions": "Editionen",
+    "platforms": "Plattformen",
+    "release": "Release",
+    "mods": "Mods",
+    "menu": "Menü",
+    "toggleTheme": "Design umschalten"
+  },
+  "home": {
+    "meta": {
+      "title": "Transport Fever 3 Wiki - Fahrzeuge, Guides & Karten",
+      "description": "Das Transport Fever 3 Wiki bietet Fahrzeuglisten, Einsteiger-Guides, Gameplay-Tipps, Karten, Wirtschaftsstrategien und detaillierte Anleitungen zum Aufbau von Verkehrsnetzen."
+    },
+    "hero": {
+      "eyebrow": "Die ultimative Verkehrstycoon-Simulation",
+      "title": "Transport Fever 3 Wiki",
+      "description": "Transport Fever 3 ist eine tiefgründige Transportmanagement-Simulation, in der Spieler Eisenbahnnetze bauen, Logistiksysteme verwalten, Städte entwickeln und globale Verkehrsimperien zu Lande, zu Wasser und in der Luft erschaffen.",
+      "stats": [
+        "300+ Fahrzeuge verfügbar",
+        "4 Welt-Biotope",
+        "13 unterstützte Sprachen",
+        "2026 Erscheinungsjahr"
+      ],
+      "primaryCta": "Einsteiger-Guide",
+      "secondaryCta": "Auf Steam vorbestellen",
+      "tertiaryCta": "Offizielle Webseite",
+      "videoLabel": "Offizieller Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier beginnen",
+      "title": "Deine Reise in Transport Fever 3",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Meistere frühe Routenplanung, Depoteinrichtung und Güter-Lieferketten mit unserem Einstiegs-Guide."
+        },
+        {
+          "number": "2",
+          "title": "Rentable Routen",
+          "description": "Baue frühzeitig hochrentable Punkt-zu-Punkt-Industriekorridore auf, um einen stetigen Cashflow zu sichern."
+        },
+        {
+          "number": "3",
+          "title": "Flottenauswahl",
+          "description": "Finde die richtige Balance zwischen Höchstgeschwindigkeit, Betriebskosten und Kapazität bei Dampf, Diesel und Lkw."
+        },
+        {
+          "number": "4",
+          "title": "Lieferketten-Grundlagen",
+          "description": "Verbinde Rohstoffquellen mit Verarbeitungsbetrieben und liefere Fertigwaren direkt in florierende Städte."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Guides",
+      "title": "Aktuelle Themen",
+      "quickLinks": [
+        "Schienennetze",
+        "Güterlogistik",
+        "Flottenmanagement",
+        "Kuratierte Mods"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteiger-Guide",
+          "description": "Wichtige Anfangsschritte zu Depots, Linienerstellung und finanzieller Stabilität.",
+          "href": "/guide/transport-fever-3-beginners-guide"
+        },
+        {
+          "badge": "Kern",
+          "title": "Fahrzeugübersicht",
+          "description": "Vollständige Aufschlüsselung von über 300 Zügen, Lkw, Schiffen und Flugzeugen aller Epochen.",
+          "href": "/vehicles/transport-fever-3-vehicles"
+        },
+        {
+          "badge": "Strategie",
+          "title": "Wirtschafts-Guide",
+          "description": "Verwalte Wartungskosten, Frachttarife und Kredittilgungen zum Ausbau deines Imperiums.",
+          "href": "/mechanics/transport-fever-3-economy"
+        },
+        {
+          "badge": "Guide",
+          "title": "Kampagnen-Missionen",
+          "description": "Detaillierte Komplettlösungen für historische Szenarien und Meilensteine.",
+          "href": "/guide/transport-fever-3-campaign"
+        },
+        {
+          "badge": "Community",
+          "title": "Mods & Workshop",
+          "description": "Kuratiertes Mod-Programm, Steam Workshop-Unterstützung und individuelle Bahnhofs-Assets.",
+          "href": "/mods/transport-fever-3-mods"
+        },
+        {
+          "badge": "Mechaniken",
+          "title": "Güter-Lieferketten",
+          "description": "Optimierung von Industrieproduktionslinien, Lagerhaltung und multimodalen Umladungen.",
+          "href": "/mechanics/transport-fever-3-cargo"
+        },
+        {
+          "badge": "Release",
+          "title": "Release & Editionen",
+          "description": "Starttermine, Plattformverfügbarkeit und Vorteile der Standard- vs. Deluxe-Edition.",
+          "href": "/editions/transport-fever-3-standard-vs-deluxe"
+        },
+        {
+          "badge": "Taktik",
+          "title": "Gameplay-Tipps",
+          "description": "Signalkonfigurationen, Steigungsmanagement und Vermeidung von Engpässen auf Hauptstrecken.",
+          "href": "/guide/transport-fever-3-tips"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Über Transport Fever 3",
+      "paragraphs": [
+        "Transport Fever 3 ist die nächste Generation der Transportmanagement- und Tycoon-Simulation, entwickelt von Urban Games und herausgegeben von Paradox Interactive. Spieler schlüpfen in die Rolle eines Verkehrsmagnaten und entwerfen komplexe Verkehrsnetze zu Lande, zu Wasser und in der Luft durch historische Epochen ab 1850 bis in die Moderne.",
+        "Vom Bau anspruchsvoller Eisenbahnkorridore über modulare Knotenpunkte bis hin zum Ausbalancieren dynamischer Industrie-Lieferketten und städtischem Verkehr bietet Transport Fever 3 beispiellose Simulationstiefe, authentische Fahrzeuge und starke Mod-Unterstützung."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Urban Games"
+        },
+        {
+          "label": "Publisher",
+          "value": "Paradox Interactive"
+        },
+        {
+          "label": "Genre",
+          "value": "Transport Tycoon"
+        },
+        {
+          "label": "Fahrzeuge",
+          "value": "300+"
+        },
+        {
+          "label": "Umgebungen",
+          "value": "4 Biome"
+        },
+        {
+          "label": "Sprachen",
+          "value": "13"
+        },
+        {
+          "label": "Release-Jahr",
+          "value": "2026"
+        }
+      ],
+      "cta": "Offizielle Webseite besuchen"
+    },
+    "explore": {
+      "title": "Wiki-Wissensdatenbank erkunden",
+      "description": "Tauche ein in detaillierte Module zu Gameplay-Systemen, Fahrzeugstufen, Kampagnen-Taktiken und Plattform-Anforderungen.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Transport Fever 3 Einsteiger-Guide",
+          "description": "Ein einsteigerfreundlicher Guide über Kernmechaniken, Netzplanung, Wirtschaftsgrundlagen und den Aufbau eines rentablen Unternehmens.",
+          "href": "/guide/transport-fever-3-beginners-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Prüfe Stadtbedarfe und finde nahegelegene Rohstoffvorkommen."
+            },
+            {
+              "label": "2",
+              "detail": "Baue Depots und Stationsterminals nahe an Güterknotenpunkten."
+            },
+            {
+              "label": "3",
+              "detail": "Verbinde Schienen oder Straßen mit direkten Punkt-zu-Punkt-Linien."
+            },
+            {
+              "label": "4",
+              "detail": "Weise Fahrzeuge mit hoher Kapazität zu und halte Betriebskosten im Gleichgewicht."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Transport Fever 3 Fahrzeug-Guide",
+          "description": "Eine umfassende Stufenübersicht der Transportoptionen für Züge, Lkw, Schiffe und Flugzeuge aller Epochen.",
+          "href": "/vehicles/transport-fever-3-vehicles",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Hochgeschwindigkeitszüge: Höchste Kapazität und rentable Fernstrecken."
+            },
+            {
+              "label": "A",
+              "detail": "Schwere Güterloks: Überragende Zugkraft für Massengüter."
+            },
+            {
+              "label": "B",
+              "detail": "Städtische Straßenbahnen & Busse: Effiziente Zubringer zur Verkehrsentlastung."
+            },
+            {
+              "label": "C",
+              "detail": "Frühe Dampfzubringer: Unverzichtbar für lokale Transporte in frühen Epochen."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Transport Fever 3 Wirtschafts-Guide",
+          "description": "Finanzmanagement, rentable Routen, Wartungskosten, Frachtlieferung und effizientes Skalieren deines Imperiums.",
+          "href": "/mechanics/transport-fever-3-economy",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Starte mit Frachtlinien, um garantierten Cashflow ohne Auslastungsschwankungen zu sichern."
+            },
+            {
+              "label": "2",
+              "detail": "Nutze Rundläufe, damit Züge nicht mit leeren Waggons zurückfahren."
+            },
+            {
+              "label": "3",
+              "detail": "Tilge hochverzinsliche Kredite, um laufende Zinsausgaben zu minimieren."
+            },
+            {
+              "label": "4",
+              "detail": "Ersetze veraltete Fahrzeuge rechtzeitig, bevor Wartungskosten explodieren."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Transport Fever 3 Karten-Guide",
+          "description": "Kartenumgebungen, Klimazonen, Geländehürden und Layout-Strategien für verschiedene Regionen.",
+          "href": "/mechanics/transport-fever-3-map-size",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Gemäßigt",
+              "detail": "Ausgewogene Hügel und Flüsse, ideal für vielseitige Netze."
+            },
+            {
+              "label": "Wüste",
+              "detail": "Weite Ebenen mit hohen Distanzen zwischen Wasser- und Nahrungsketten."
+            },
+            {
+              "label": "Tropisch",
+              "detail": "Dichte Inseln erfordern starke Frachtschifffahrt und Häfen."
+            },
+            {
+              "label": "Gebirge",
+              "detail": "Steile Pässe fordern Serpentinen, Viadukte und lange Tunnel."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Transport Fever 3 Mod-Guide",
+          "description": "Mod-Support, integrierter Mod-Browser und Community-Inhalte zur individuellen Anpassung.",
+          "href": "/mods/transport-fever-3-mods",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Workshop",
+              "detail": "Direkte 1-Klick-Installation über die Steam Workshop-Integration."
+            },
+            {
+              "label": "Mod Hub",
+              "detail": "Spielinterner Mod-Browser für Konsolen- und PC-Spieler."
+            },
+            {
+              "label": "Fahrzeug-Packs",
+              "detail": "Historisch akkurate Lokomotiven und regionale Busse."
+            },
+            {
+              "label": "Infrastruktur",
+              "detail": "Modulare Bahnhöfe, Brückenpfeiler und benutzerdefinierte Signale."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Transport Fever 3 Kampagnen-Guide",
+          "description": "Historische Szenarien, Missionsziele und Spielmechaniken im storybasierten Kampagnenmodus.",
+          "href": "/guide/transport-fever-3-campaign",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "Epoche 1",
+              "detail": "Frühe Pioniere: Aufbau erster Dampfeisenbahnen im 19. Jahrhundert."
+            },
+            {
+              "label": "Epoche 2",
+              "detail": "Industrielle Expansion: Logistik während der Massenfertigung."
+            },
+            {
+              "label": "Epoche 3",
+              "detail": "Das Diesel- & Elektrozeitalter: Schnelle Fernstreckennetze."
+            },
+            {
+              "label": "Epoche 4",
+              "detail": "Moderne Vernetzung: Multimodale Hochgeschwindigkeitskorridore."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Transport Fever 3 News & Updates",
+          "description": "Entwickler-Tagebücher, Ankündigungen, Patchnotizen und offizielle Release-Neuigkeiten.",
+          "href": "/release/transport-fever-3-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "2026 Launch",
+              "detail": "Offizielles Veröffentlichungsfenster für PC, Mac und Konsolen."
+            },
+            {
+              "label": "Multiplayer",
+              "detail": "Kooperative Streckenplanung und geteilte Welt-Seeds."
+            },
+            {
+              "label": "Neue Engine",
+              "detail": "Verbessertes Rendering, dynamisches Wetter und Straßenabnutzung."
+            },
+            {
+              "label": "Trailer",
+              "detail": "Gameplay-Enthüllung und detaillierte Fahrzeug-Showcases."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Transport Fever 3 Errungenschaften-Guide",
+          "description": "Meilensteine, Trophäen und Herausforderungen für Komplettionisten.",
+          "href": "/guide/transport-fever-3-what-we-know",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Tycoon",
+              "detail": "Erreiche 100 Millionen Guthaben ohne unbezahlte Kredite."
+            },
+            {
+              "label": "Netzwerker",
+              "detail": "Verbinde jede Stadt auf einer großen Karte mit der Eisenbahn."
+            },
+            {
+              "label": "Multimodal",
+              "detail": "Transportiere Fracht über Straße, Schiene, Wasser und Luft."
+            },
+            {
+              "label": "Museum",
+              "detail": "Besitze Fahrzeuge aus jeder Dekade von 1850 bis 2026."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen (FAQ)",
+      "description": "Finde Antworten auf die wichtigsten Fragen zu Transport Fever 3.",
+      "items": [
+        {
+          "question": "Was ist Transport Fever 3?",
+          "answer": "Transport Fever 3 ist eine umfassende Transportmanagement-Simulation von Urban Games und Paradox Interactive. Spieler errichten Schienen-, Straßen-, Schifffahrts- und Luftlogistik, um die Wirtschaft anzukurbeln und florierende Städte über Epochen hinweg zu verbinden."
+        },
+        {
+          "question": "Wann erscheint Transport Fever 3?",
+          "answer": "Transport Fever 3 soll 2026 für PC, Mac, Linux, PlayStation 5 und Xbox Series X|S erscheinen."
+        },
+        {
+          "question": "Wie viele Fahrzeuge gibt es in Transport Fever 3?",
+          "answer": "Transport Fever 3 bietet über 300 detailgetreu nachgebildete historische und moderne Fahrzeuge, darunter Züge, Busse, Lastwagen, Frachtschiffe und Flugzeuge."
+        },
+        {
+          "question": "Unterstützt Transport Fever 3 Mods und den Steam Workshop?",
+          "answer": "Ja, Transport Fever 3 bietet umfangreiche Mod-Unterstützung mit einem integrierten Mod-Browser sowie Steam Workshop-Integration für benutzerdefinierte Fahrzeuge, Karten und Gebäude."
+        },
+        {
+          "question": "Welche Editionen gibt es für Transport Fever 3?",
+          "answer": "Transport Fever 3 ist als Standard Edition, Deluxe Edition mit exklusiven Bonusfahrzeugen und Designs sowie als physische Collector's Edition erhältlich."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit für dein Verkehrs-Imperium?",
+      "description": "Vom Verlegen der ersten Gleise bis zum Management globaler Lieferketten zu Lande, zu Wasser und in der Luft – unser Community-Wiki bietet dir alle Anleitungen kostenlos und aktuell.",
+      "primary": "Einsteiger-Guide lesen",
+      "secondary": "Auf Steam vorbestellen"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes anzeigen",
+    "playOnRoblox": "Auf Steam vorbestellen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Weiterführende Artikel",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Weiterlesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Transport Fever 3 Wiki",
+    "about": "Das Transport Fever 3 Wiki ist ein unabhängiger Fan-Guide mit Fahrzeugübersichten, Linienmanagement, Eisenbahnsignalisierung, Wirtschaftsstrategien und Logistiksystemen.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Transport Fever 3 Wiki. Nicht verbunden mit Urban Games oder Paradox Interactive.",
+    "description": "Transportsimulation und Tycoon-Spiel von Urban Games & Paradox Interactive. Baue Eisenbahnnetze, verwalte Logistik und entwickle Städte.",
+    "playGame": "Auf Steam vorbestellen",
+    "officialDiscord": "Steam-Community",
+    "officialYoutube": "Offizieller Trailer",
+    "vvBuilder": "Streckenplaner",
+    "beginnerGuide": "Einsteiger-Guide",
+    "raceGuides": "Fahrzeug-Guides",
+    "bossGuides": "Logistik-Guides",
+    "buildGuide": "Routenstrategie",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  },
+  "guide": {
+    "overviewTitle": "Transport Fever 3 Guides & Komplettlösungen",
+    "overviewDescription": "Umfassende Einsteiger-Guides, Kampagnen-Lösungen, Verkehrsplanungstipps und optimale Routenstrategien für Transport Fever 3."
+  },
+  "mechanics": {
+    "overviewTitle": "Transport Fever 3 Gameplay-Mechaniken",
+    "overviewDescription": "Detaillierte Analyse von Wirtschaftssystemen, Güterketten, Personenverkehrsströmen, Mehrgleis-Signalen und Koop-Mechaniken."
+  },
+  "vehicles": {
+    "overviewTitle": "Transport Fever 3 Fahrzeugkatalog & Datenbank",
+    "overviewDescription": "Vollständige Übersicht aller Dampf-, Diesel- und E-Loks, Straßenbahnen, Busse, Lkw, Frachtschiffe und Transportflugzeuge historischer Epochen."
+  },
+  "editions": {
+    "overviewTitle": "Transport Fever 3 Editionen & Vorbestellungen",
+    "overviewDescription": "Vergleich von Standard, Deluxe und Collector's Edition, Vorbesteller-Boni, exklusive Bonusfahrzeuge und Steam-Key-Aktivierung."
+  },
+  "platforms": {
+    "overviewTitle": "Transport Fever 3 Plattformen & Systemanforderungen",
+    "overviewDescription": "Hardware-Spezifikationen, PC-Systemanforderungen, Steam Deck-Kompatibilität, Mac-Unterstützung sowie PS5- und Xbox Series X/S-Details."
+  },
+  "release": {
+    "overviewTitle": "Transport Fever 3 Release-Datum & Neuigkeiten",
+    "overviewDescription": "Offizielle Starttermine, Ankündigungen, Beta-Phasen, Trailer-Analysen, Preise und Entwickler-Roadmaps für Transport Fever 3."
+  },
+  "mods": {
+    "overviewTitle": "Transport Fever 3 Mods & Steam Workshop",
+    "overviewDescription": "Wichtige Modding-Guides, Steam Workshop-Integration, benutzerdefinierte Kartengrößen, verbesserte Verkehrsmods und Community-Tools."
+  }
+}

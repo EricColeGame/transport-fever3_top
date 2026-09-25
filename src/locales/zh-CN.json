@@ -1,1 +1,473 @@
-{}
+{
+  "site": {
+    "name": "狂热运输3 中文维基",
+    "shortName": "狂热运输3",
+    "tagline": "终极狂热运输3全方位策略与载具百科",
+    "description": "狂热运输3中文维基提供完整的载具图鉴、新手开局指南、玩法技巧、地图规划、经济策略及运输网络构建详尽攻略。",
+    "legalNotice": "非官方玩家维基。Transport Fever 3（狂热运输3）是 Urban Games 与 Paradox Interactive 的注册商标。所有游戏素材版权归原作者所有。"
+  },
+  "nav": {
+    "home": "首页",
+    "guide": "新手指南",
+    "mechanics": "游戏机制",
+    "vehicles": "载具图鉴",
+    "editions": "版本介绍",
+    "platforms": "运行平台",
+    "release": "发售资讯",
+    "mods": "模组工坊",
+    "menu": "菜单",
+    "toggleTheme": "切换主题"
+  },
+  "home": {
+    "meta": {
+      "title": "狂热运输3 中文维基 - 载具图鉴、攻略与地图指南",
+      "description": "狂热运输3中文维基提供完整的载具图鉴、新手开局指南、玩法技巧、地图规划、经济策略及运输网络构建详尽攻略。"
+    },
+    "hero": {
+      "eyebrow": "终极交通运输大亨模拟巨作",
+      "title": "狂热运输3 中文维基",
+      "description": "《狂热运输3》（Transport Fever 3）是一款深度交通运输管理模拟游戏。玩家将在横跨陆海空的广袤天地中铺设铁路线路、调度物流供应链、促进城市繁荣，建立跨越多个历史时代的全球运输帝国。",
+      "stats": [
+        "300+ 款经典载具",
+        "4 种世界生态环境",
+        "13 种语言支持",
+        "2026 正式发售"
+      ],
+      "primaryCta": "新手入门攻略",
+      "secondaryCta": "Steam 预购",
+      "tertiaryCta": "官方网站",
+      "videoLabel": "官方宣传预告"
+    },
+    "updates": {
+      "title": "最新更新",
+      "browse": "浏览全部攻略",
+      "viewAll": "查看全部"
+    },
+    "start": {
+      "eyebrow": "新手起步",
+      "title": "开启你的狂热运输3建造之旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "新手起步指南",
+          "description": "通过我们的核心指引掌握早期线路规划、车辆段配置与货物供应链基础。"
+        },
+        {
+          "number": "2",
+          "title": "高利润线路布局",
+          "description": "尽早建立高利润的点对点工业直达走廊，确保稳定的日常现金流运转。"
+        },
+        {
+          "number": "3",
+          "title": "运输车队选型",
+          "description": "在蒸汽机车、内燃动力与公路货运之间权衡最高时速、运营成本与货运载重。"
+        },
+        {
+          "number": "4",
+          "title": "供应链基础架构",
+          "description": "将原材料产地无缝连通至加工工厂，并将终端产物直接运抵城市核心区。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "热门指南",
+      "title": "热门专题与策略",
+      "quickLinks": [
+        "铁路路网",
+        "货运物流",
+        "车队管理",
+        "精选模组"
+      ],
+      "cards": [
+        {
+          "badge": "新手",
+          "title": "新手入门攻略",
+          "description": "覆盖车辆段建设、线路创设及财务稳定性的游戏初期必备要领。",
+          "href": "/guide/transport-fever-3-beginners-guide"
+        },
+        {
+          "badge": "核心",
+          "title": "完整载具图鉴",
+          "description": "详尽拆解跨越百余年历史的300多款火车、卡车、轮船与货运飞机。",
+          "href": "/vehicles/transport-fever-3-vehicles"
+        },
+        {
+          "badge": "策略",
+          "title": "经济系统指南",
+          "description": "有效管理载具维护费、货运费率与贷款偿还，科学扩张运输版图。",
+          "href": "/mechanics/transport-fever-3-economy"
+        },
+        {
+          "badge": "指南",
+          "title": "战役关卡攻略",
+          "description": "历史剧本通关要点与时代推进任务目标的全方位步骤解析。",
+          "href": "/guide/transport-fever-3-campaign"
+        },
+        {
+          "badge": "社区",
+          "title": "模组与创意工坊",
+          "description": "官方精选模组计划、Steam 创意工坊支持及自定义车站建筑资产。",
+          "href": "/mods/transport-fever-3-mods"
+        },
+        {
+          "badge": "机制",
+          "title": "货物供应链体系",
+          "description": "深入优化工业生产线流转、仓储中转枢纽与多式联运中继网络。",
+          "href": "/mechanics/transport-fever-3-cargo"
+        },
+        {
+          "badge": "版本",
+          "title": "发售与版本差异",
+          "description": "发售日期细则、全平台登录资讯及标准版与豪华版特权对比。",
+          "href": "/editions/transport-fever-3-standard-vs-deluxe"
+        },
+        {
+          "badge": "技巧",
+          "title": "实用进阶技巧",
+          "description": "铁道信号机闭塞布置、坡道平缓化工程以及干线防堵塞分流方案。",
+          "href": "/guide/transport-fever-3-tips"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "关于狂热运输3",
+      "paragraphs": [
+        "《狂热运输3》（Transport Fever 3）是由 Urban Games 开发、Paradox Interactive 发行的次世代交通运输大亨模拟经营游戏。玩家将扮演运输巨头的掌舵人，从1850年蒸汽时代起步一路迈向现代化未来，精心构建横跨陆运、水运和空运的综合交通枢纽。",
+        "无论是铺设复杂的双向铁路大干线、定制模块化综合枢纽站，还是调配动态的多元工业产业链与化解城市拥堵，本作都将为玩家带来无与伦比的模拟深度、精细考究的历史载具以及强大的社区模组生态。"
+      ],
+      "stats": [
+        {
+          "label": "开发商",
+          "value": "Urban Games"
+        },
+        {
+          "label": "发行商",
+          "value": "Paradox Interactive"
+        },
+        {
+          "label": "游戏类型",
+          "value": "交通大亨模拟"
+        },
+        {
+          "label": "载具数量",
+          "value": "300+ 款"
+        },
+        {
+          "label": "地图环境",
+          "value": "4 大生态群系"
+        },
+        {
+          "label": "语言支持",
+          "value": "13 种语言"
+        },
+        {
+          "label": "发售年份",
+          "value": "2026 年"
+        }
+      ],
+      "cta": "访问游戏官方网站"
+    },
+    "explore": {
+      "title": "探索维基知识库",
+      "description": "深入探索游戏核心机制、全载具等级划分、战役剧情任务以及多平台配置要求等全面专题。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "狂热运输3 新手入门指南",
+          "description": "专为新玩家打造的基础教程，覆盖核心游玩循环、线路规划逻辑、经济常识与扭亏为盈策略。",
+          "href": "/guide/transport-fever-3-beginners-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "观察城市商品需求，就近锁定原料产地与工厂布局。"
+            },
+            {
+              "label": "2",
+              "detail": "在货运枢纽旁科学选址并建造车库、货运终点站与接驳场。"
+            },
+            {
+              "label": "3",
+              "detail": "铺设铁轨或平整公路，建立点对点的直达货运路线。"
+            },
+            {
+              "label": "4",
+              "detail": "采购大容量载具上线营运，严格控制线路初期维护折旧成本。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "狂热运输3 载具图鉴与评级",
+          "description": "横跨各历史时期的火车、货运卡车、轮船与飞机全矩阵性能剖析与实用性等级划分。",
+          "href": "/vehicles/transport-fever-3-vehicles",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "高速城际列车：极速客运首选，长途跨城运营利润丰厚。"
+            },
+            {
+              "label": "A",
+              "detail": "重型货运内燃机车：牵引力强劲，大宗原材料矿运主力。"
+            },
+            {
+              "label": "B",
+              "detail": "城市有轨电车与公交：市内高效接驳，疏解主干道交通拥堵。"
+            },
+            {
+              "label": "C",
+              "detail": "早期蒸汽转运机车：时代初期短途工业转运过渡利器。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "狂热运输3 经济系统运营指南",
+          "description": "深入讲解资金流动、高回报线路、折旧维护控制与货运物流定价，助你打造现金流帝国。",
+          "href": "/mechanics/transport-fever-3-economy",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "优先开辟工业原料专线，获得稳定无波动的起步现金流。"
+            },
+            {
+              "label": "2",
+              "detail": "规划回程配载货物线路，彻底杜绝列车空载返程浪费运力。"
+            },
+            {
+              "label": "3",
+              "detail": "逐步偿还高利息初始贷款，大幅减轻每月刚性利息开支。"
+            },
+            {
+              "label": "4",
+              "detail": "及时换代老旧载具，避免车况恶化导致日常维护费用激增。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "狂热运输3 地图环境与地貌攻略",
+          "description": "全面剖析温带、沙漠、热带等气候区域的地形特征、基建施工难度与路网搭建方案。",
+          "href": "/mechanics/transport-fever-3-map-size",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "温带平原",
+              "detail": "地势平缓水网适中，是构建多级复合运输网络的理想实验场。"
+            },
+            {
+              "label": "荒漠干旱",
+              "detail": "开阔平坦但水源食物产业链距离极远，适合超长货运专列。"
+            },
+            {
+              "label": "群岛热带",
+              "detail": "岛屿纵横水域辽阔，重度依赖水运货船与港口枢纽衔接。"
+            },
+            {
+              "label": "崇山峻岭",
+              "detail": "地形险峻高差悬殊，需合理修建盘山展线、高架桥与长大隧道。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "狂热运输3 模组工坊与扩展指南",
+          "description": "解析全新游戏内模组中心、Steam 创意工坊支持体系及各类高质量玩家自制资产。",
+          "href": "/mods/transport-fever-3-mods",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "创意工坊",
+              "detail": "无缝对接 Steam 创意工坊，海量载具模组一键点击订阅。"
+            },
+            {
+              "label": "内置工坊",
+              "detail": "全新整合游戏内模组浏览器，主机端与 PC 玩家均可轻松使用。"
+            },
+            {
+              "label": "真实载具包",
+              "detail": "高度还原各国真实历史火车机车、车厢与本土特色巴士。"
+            },
+            {
+              "label": "基建资产",
+              "detail": "模块化站台组件、高架道岔、仿真信号系统与精美城市美化包。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "狂热运输3 战役模式剧情任务全解",
+          "description": "带你回顾交通史上关键历史节点，详解战役各章节主要目标、次要挑战与解锁机制。",
+          "href": "/guide/transport-fever-3-campaign",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "时代一",
+              "detail": "铁路开拓时代：19世纪早期蒸汽机车与早期工业物资拓荒。"
+            },
+            {
+              "label": "时代二",
+              "detail": "工业腾飞时期：大工业生产线与复杂干支线物流网络调度。"
+            },
+            {
+              "label": "时代三",
+              "detail": "内燃与电气化：大提速时代的快速干线与城际枢纽整合。"
+            },
+            {
+              "label": "时代四",
+              "detail": "现代智慧交通：全自动化集装箱码头与高铁综合客货运走廊。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "狂热运输3 官方资讯与版本动态",
+          "description": "追踪 Urban Games 开发者日志、官方发布会实机演示、补丁更新与上线里程碑。",
+          "href": "/release/transport-fever-3-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "2026 定档",
+              "detail": "官方宣布定档 2026 年，同步登陆 PC、Mac 及次时代主机。"
+            },
+            {
+              "label": "多人联机",
+              "detail": "支持联机合作建设与共享地图种子挑战全新游玩模式。"
+            },
+            {
+              "label": "全新引擎",
+              "detail": "大幅优化超大地图渲染、动态天气光影与路面物理磨损系统。"
+            },
+            {
+              "label": "官方预告",
+              "detail": "发布完整实机玩法演示与最新时代载具细节展示影片。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "狂热运输3 成就挑战全收集攻略",
+          "description": "为成就党玩家量身打造的挑战列表，汇整全部 Steam 与主机成就解锁技巧。",
+          "href": "/guide/transport-fever-3-what-we-know",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "运输大亨",
+              "detail": "在还清所有借贷的前提下公司账户流动资金突破一亿。"
+            },
+            {
+              "label": "四通八达",
+              "detail": "在超大尺寸地图上使用客运铁路网络无缝连通所有城市。"
+            },
+            {
+              "label": "全能物流",
+              "detail": "同一条货运走廊无缝衔接公路、铁路、轮船与航空四种交通方式。"
+            },
+            {
+              "label": "活态博物馆",
+              "detail": "同时运营拥有自 1850 年至现代各个历史时期的现役载具。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "常见问题解答 (FAQ)",
+      "description": "解答关于《狂热运输3》游戏发售、载具、配置与机制的核心疑问。",
+      "items": [
+        {
+          "question": "《狂热运输3》是一款怎样的游戏？",
+          "answer": "《狂热运输3》是由 Urban Games 研发、Paradox Interactive 代理发行的全维度交通物流模拟大作。玩家将在跨越数百年的历史进程中，统筹规划铁路线网、公路干道、水运航道与航空物流，推动沿线城市繁荣并打造全球性的货运客运帝国。"
+        },
+        {
+          "question": "《狂热运输3》什么时候发售？",
+          "answer": "《狂热运输3》计划于 2026 年正式推出，将首发支持 PC、Mac、Linux、PlayStation 5 以及 Xbox Series X|S 平台。"
+        },
+        {
+          "question": "游戏中总共有多少款载具？",
+          "answer": "《狂热运输3》收录了超过 300 款高度精细还原的各时代经典载具，涵盖蒸汽/内燃/电力机车、长途客车、公交电车、重型货车、内河海运轮船以及民航货运飞机。"
+        },
+        {
+          "question": "游戏是否支持模组（MOD）和 Steam 创意工坊？",
+          "answer": "是的，游戏不仅全面支持 Steam 创意工坊，还内置了跨平台模组浏览器（Mod Hub），便于玩家一键安装社群创建的定制机车、丰富建筑及超大自定义地图。"
+        },
+        {
+          "question": "《狂热运输3》目前有哪些预售版本？",
+          "answer": "游戏推出了标准版、包含专属特色载具与定制涂装的豪华版（Deluxe Edition），以及面向核心玩家的实体收藏家版（Collector's Edition）。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "准备好打造你的交通运输帝国了吗？",
+      "description": "从铺设第一根铁轨起步，到统筹陆海空多式联运货运网络——本维基社群为你提供最全面、持续更新的免费攻略与深度指南。",
+      "primary": "阅读新手起步指南",
+      "secondary": "在 Steam 上预购"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "维基导航",
+    "activeCodes": "兑换码列表",
+    "updated": "更新于",
+    "viewAllCodes": "查看全部兑换码",
+    "playOnRoblox": "Steam 预购",
+    "inThisSection": "本节导航",
+    "tableOfContents": "目录导航",
+    "nextSteps": "后续步骤",
+    "needHelp": "需要帮助？",
+    "relatedReading": "延伸阅读",
+    "relatedGuides": "相关指南",
+    "readMore": "阅读全文",
+    "officialMedia": "官方宣传媒体",
+    "home": "首页",
+    "noGuidesAvailable": "暂无相关指南，敬请期待更新！"
+  },
+  "footer": {
+    "aboutTitle": "狂热运输3 维基百科",
+    "about": "狂热运输3维基是一个由玩家社群独立搭建的综合性游戏指南站点，涵盖全载具图鉴、线路管理、铁路信号系统、经济运营策略及货物物流链全解析。",
+    "quickLinks": "快速通道",
+    "guides": "攻略目录",
+    "legal": "法律声明",
+    "copyright": "2026 狂热运输3 维基。本站非 Urban Games 或 Paradox Interactive 官方站点。",
+    "description": "由 Urban Games 与 Paradox Interactive 推出的交通模拟经营大作。修建铁路线网，管理综合物流，打造繁荣城镇。",
+    "playGame": "Steam 预购",
+    "officialDiscord": "Steam 玩家社区",
+    "officialYoutube": "官方宣传视频",
+    "vvBuilder": "线路规划器",
+    "beginnerGuide": "新手开局指南",
+    "raceGuides": "载具图鉴大全",
+    "bossGuides": "物流供应链解析",
+    "buildGuide": "线路运营策略",
+    "privacyPolicy": "隐私政策",
+    "termsOfService": "服务条款"
+  },
+  "guide": {
+    "overviewTitle": "狂热运输3 进阶攻略与通关指南",
+    "overviewDescription": "涵盖新手开局、战役任务通关解析、城市公交路网规划以及高效运能布局全方位指南。"
+  },
+  "mechanics": {
+    "overviewTitle": "狂热运输3 核心玩法与运行机制",
+    "overviewDescription": "深度解析经济收支系统、工业原材料与货运供应链、客流计算模型、铁道信号系统与多人合作模式。"
+  },
+  "vehicles": {
+    "overviewTitle": "狂热运输3 载具图鉴大全与性能数据库",
+    "overviewDescription": "收录各历史时代蒸汽机车、内燃与电力火车、有轨电车、公交客车、货运卡车、运输轮船与民航客货运飞机。"
+  },
+  "editions": {
+    "overviewTitle": "狂热运输3 发售版本对比与预购特权",
+    "overviewDescription": "全面对比标准版、豪华版与实体收藏版内容差异，包含预购奖励载具、独家定制涂装与 Steam 激活说明。"
+  },
+  "platforms": {
+    "overviewTitle": "狂热运输3 支持平台与电脑配置需求",
+    "overviewDescription": "PC 最低与推荐硬件配置、Steam Deck 运行表现、Mac 系统适配以及 PS5 与 Xbox Series X/S 主机版支持。"
+  },
+  "release": {
+    "overviewTitle": "狂热运输3 发售日确定与最新官方消息",
+    "overviewDescription": "整理官方发售时间表、测试阶段动态、实机预告片解析、游戏定价以及发行商后续更新路线图。"
+  },
+  "mods": {
+    "overviewTitle": "狂热运输3 模组生态与创意工坊资源",
+    "overviewDescription": "推荐必装功能性模组、Steam 创意工坊订阅指南、超大自定义地图、城市路网优化模组与社群制作工具。"
+  }
+}

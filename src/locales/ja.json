@@ -1,1 +1,473 @@
-{}
+{
+  "site": {
+    "name": "Transport Fever 3 日本語攻略 Wiki",
+    "shortName": "Transport Fever 3",
+    "tagline": "Transport Fever 3 最強戦略＆乗り物徹底攻略ガイド",
+    "description": "Transport Fever 3 日本語攻略 Wiki では、全乗り物一覧、初心者向けガイド、攻略のコツ、マップ解説、経済戦略、輸送ネットワーク構築ガイドをお届けします。",
+    "legalNotice": "非公式ファン Wiki です。Transport Fever 3 は Urban Games および Paradox Interactive の登録商標です。すべてのゲームアセットの権利は各所有者に帰属します。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "guide": "ガイド",
+    "mechanics": "ゲームシステム",
+    "vehicles": "乗り物一覧",
+    "editions": "エディション",
+    "platforms": "対応機種",
+    "release": "発売情報",
+    "mods": "MOD情報",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切替"
+  },
+  "home": {
+    "meta": {
+      "title": "Transport Fever 3 日本語攻略 Wiki - 乗り物一覧・ガイド・マップ",
+      "description": "Transport Fever 3 日本語攻略 Wiki では、全乗り物一覧、初心者向けガイド、攻略のコツ、マップ解説、経済戦略、輸送ネットワーク構築ガイドをお届けします。"
+    },
+    "hero": {
+      "eyebrow": "究極の交通タイクーン・シミュレーション",
+      "title": "Transport Fever 3 日本語攻略 Wiki",
+      "description": "『Transport Fever 3』は、鉄道網の敷設、物流システムの管理、都市の発展、陸海空を網羅する輸送帝国の建設を体験できる本格交通マネジメントシミュレーションです。",
+      "stats": [
+        "300種以上の乗り物",
+        "4つの世界環境",
+        "13言語対応",
+        "2026年発売予定"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "Steamで予約注文",
+      "tertiaryCta": "公式サイト",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "全ガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここからスタート",
+      "title": "Transport Fever 3 の旅を始めよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者向け入門ガイド",
+          "description": "初期の路線計画、車庫の配置、貨物サプライチェーンの基礎をマスターしましょう。"
+        },
+        {
+          "number": "2",
+          "title": "高収益路線の構築",
+          "description": "序盤に高利益を生む拠点間産業ルートを開設し、安定したキャッシュフローを確保します。"
+        },
+        {
+          "number": "3",
+          "title": "車両編成と選定",
+          "description": "蒸気、ディーゼル、トラックの最高速度、維持費、積載量のバランスを最適化します。"
+        },
+        {
+          "number": "4",
+          "title": "サプライチェーンの基礎",
+          "description": "原材料の産地から加工工場を直結し、完成品を都市の需要エリアへ確実に供給します。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ガイド",
+      "title": "注目トピック",
+      "quickLinks": [
+        "鉄道ネットワーク",
+        "貨物物流",
+        "車両運用管理",
+        "注目MOD"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "車庫の建設、路線作成、黒字経営の確立まで序盤の必須手順を解説。",
+          "href": "/guide/transport-fever-3-beginners-guide"
+        },
+        {
+          "badge": "基本",
+          "title": "乗り物カタログ",
+          "description": "各時代を彩る300種以上の列車、トラック、船、飛行機を完全網羅。",
+          "href": "/vehicles/transport-fever-3-vehicles"
+        },
+        {
+          "badge": "戦略",
+          "title": "経済システム解説",
+          "description": "車両維持費、貨物運賃、借入金返済を管理し、会社を着実に拡大。",
+          "href": "/mechanics/transport-fever-3-economy"
+        },
+        {
+          "badge": "ガイド",
+          "title": "キャンペーン攻略",
+          "description": "歴史的シナリオの達成目標と各時代のマイルストーンを詳しく解説。",
+          "href": "/guide/transport-fever-3-campaign"
+        },
+        {
+          "badge": "コミュニティ",
+          "title": "MOD＆ワークショップ",
+          "description": "厳選MODプログラム、Steamワークショップ対応、駅舎アセット導入法。",
+          "href": "/mods/transport-fever-3-mods"
+        },
+        {
+          "badge": "システム",
+          "title": "貨物サプライチェーン",
+          "description": "産業生産ライン、倉庫ハブ、複合一貫輸送の効率を極限まで最適化。",
+          "href": "/mechanics/transport-fever-3-cargo"
+        },
+        {
+          "badge": "発売情報",
+          "title": "エディション・特典",
+          "description": "発売日、対応プラットフォーム、通常版とDeluxe版の違いを徹底比較。",
+          "href": "/editions/transport-fever-3-standard-vs-deluxe"
+        },
+        {
+          "badge": "戦術",
+          "title": "ゲームプレイのコツ",
+          "description": "信号配置、勾配対策、幹線道路の渋滞回避テクニックを伝授。",
+          "href": "/guide/transport-fever-3-tips"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Transport Fever 3 について",
+      "paragraphs": [
+        "『Transport Fever 3』は、Urban Games が開発し Paradox Interactive が販売を手がける次世代交通マネジメント＆タイクーンシミュレーションです。プレイヤーは交通王となり、1850年から現代へと続く歴史の変遷の中で、陸・海・空を結ぶ高度な輸送網を築き上げます。",
+        "緻密な複線鉄道網の構築からモジュール式ハブ駅の拡張、複合産業サプライチェーンの調整、都市渋滞の解消まで、圧倒的なシミュレーションの深さと歴史的車両、強力なMODサポートを提供します。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Urban Games"
+        },
+        {
+          "label": "発売元",
+          "value": "Paradox Interactive"
+        },
+        {
+          "label": "ジャンル",
+          "value": "交通タイクーン"
+        },
+        {
+          "label": "乗り物数",
+          "value": "300種以上"
+        },
+        {
+          "label": "環境",
+          "value": "4大バイオーム"
+        },
+        {
+          "label": "対応言語",
+          "value": "13言語"
+        },
+        {
+          "label": "発売年",
+          "value": "2026年"
+        }
+      ],
+      "cta": "公式サイトを見る"
+    },
+    "explore": {
+      "title": "Wiki ナレッジベースを探す",
+      "description": "ゲームの根幹システム、乗り物の性能ランク、キャンペーン攻略法、動作環境まで幅広く網羅。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Transport Fever 3 初心者向けガイド",
+          "description": "基本のゲームサイクル、路線網の計画、経済の仕組み、黒字化への手順をやさしく解説。",
+          "href": "/guide/transport-fever-3-beginners-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "都市の需要を確認し、近隣の原材料生産拠点を特定する。"
+            },
+            {
+              "label": "2",
+              "detail": "貨物ハブの近くに車庫とプラットホーム駅を建設する。"
+            },
+            {
+              "label": "3",
+              "detail": "線路や道路を敷設し、直通の拠点間ルートを開設する。"
+            },
+            {
+              "label": "4",
+              "detail": "大容量の車両を配備し、路線の維持管理費をバランス良く抑える。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Transport Fever 3 乗り物ガイド・性能ランク",
+          "description": "各時代に登場する列車、トラック、船舶、航空機の性能比較と運用ランク分け。",
+          "href": "/vehicles/transport-fever-3-vehicles",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "高速鉄道：最高クラスの輸送力と都市間長距離輸送での高い収益性。"
+            },
+            {
+              "label": "A",
+              "detail": "重量貨物機関車：大量の原材料輸送を支える強力な牽引力。"
+            },
+            {
+              "label": "B",
+              "detail": "市内トラム・路線バス：都市内を効率よく巡回し、道路渋滞を緩和。"
+            },
+            {
+              "label": "C",
+              "detail": "初期蒸気機関車：時代序盤の地域内支線輸送に欠かせない主力。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Transport Fever 3 経済・財務ガイド",
+          "description": "資金繰り、高収益路線の選び方、車両維持費、貨物輸送利益の最大化テクニック。",
+          "href": "/mechanics/transport-fever-3-economy",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "需要が安定した貨物輸送から開始し、確実なキャッシュフローを確保。"
+            },
+            {
+              "label": "2",
+              "detail": "復路にも貨物を積載できる循環ルートを設計し、空車回送を防止。"
+            },
+            {
+              "label": "3",
+              "detail": "金利の高い初期借入金を早期に返済し、月々の利息負担を軽減。"
+            },
+            {
+              "label": "4",
+              "detail": "老朽化した車両を計画的に更新し、維持費の急騰を防ぐ。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Transport Fever 3 マップ＆地形攻略",
+          "description": "気候区分、地形の起伏、難所を攻略する路線設計とレイアウト戦略。",
+          "href": "/mechanics/transport-fever-3-map-size",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "温帯地域",
+              "detail": "緩やかな丘陵と河川があり、多彩なネットワーク作りに最適。"
+            },
+            {
+              "label": "砂漠地帯",
+              "detail": "広大で平坦だが、水や食料などの重要拠点間の距離が長い。"
+            },
+            {
+              "label": "熱帯諸島",
+              "detail": "入り組んだ島々が特徴で、貨物船と港湾設備の連携が最重要。"
+            },
+            {
+              "label": "山岳高地",
+              "detail": "険しい勾配が続くため、ループ線、高架橋、長大トンネルが不可欠。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Transport Fever 3 MOD＆ワークショップ解説",
+          "description": "公式MODハブ、Steamワークショップ、おすすめコミュニティ制作アセット。",
+          "href": "/mods/transport-fever-3-mods",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ワークショップ",
+              "detail": "Steamワークショップ完全対応で、ワンクリックで簡単導入。"
+            },
+            {
+              "label": "ゲーム内ハブ",
+              "detail": "コンソール機とPCの両方で利用可能な内蔵MODブラウザ。"
+            },
+            {
+              "label": "車両パック",
+              "detail": "世界各国の歴史的名車やローカル路線バスを忠実に再現。"
+            },
+            {
+              "label": "構造物アセット",
+              "detail": "カスタム駅舎、架線柱、高架橋、リアルな信号機などを追加可能。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Transport Fever 3 キャンペーンモード攻略",
+          "description": "各時代シナリオのクリア目標、ボーナスタスク、攻略手順を丁寧にガイド。",
+          "href": "/guide/transport-fever-3-campaign",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "時代 1",
+              "detail": "開拓期：19世紀初頭の蒸気鉄道敷設と初期産業物資の輸送。"
+            },
+            {
+              "label": "时代 2",
+              "detail": "産業発展期：重工業の発展に伴う大規模幹線貨物輸送の展開。"
+            },
+            {
+              "label": "时代 3",
+              "detail": "ディーゼル・電化期：高速都市間ネットワークの確立と近代化。"
+            },
+            {
+              "label": "时代 4",
+              "detail": "現代の交通革命：高度な複合輸送と高速鉄道コリドーの建設。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Transport Fever 3 最新ニュース＆開発便り",
+          "description": "公式発表、開発者ブログ、トレーラー情報、発売ロードマップのまとめ。",
+          "href": "/release/transport-fever-3-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "2026年発売",
+              "detail": "PC、Mac、家庭用ゲーム機での発売スケジュールが決定。"
+            },
+            {
+              "label": "マルチプレイ",
+              "detail": "フレンドとの共同路線設計や共有シード値による挑戦要素。"
+            },
+            {
+              "label": "次世代エンジン",
+              "detail": "大規模マップ描画向上、動的気候、路面摩耗シミュレーション。"
+            },
+            {
+              "label": "公式映像",
+              "detail": "ゲームプレイ映像と精密に再現された車両モデルを公開。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Transport Fever 3 実績・トロフィー攻略",
+          "description": "Steam実績および各種チャレンジの達成条件と効率的な獲得方法。",
+          "href": "/guide/transport-fever-3-what-we-know",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "タイクーン",
+              "detail": "すべての負債を完済した状態で純資産1億ドルを達成する。"
+            },
+            {
+              "label": "全土開通",
+              "detail": "特大マップ上のすべての都市を旅客鉄道ネットワークで結ぶ。"
+            },
+            {
+              "label": "マルチモーダル",
+              "detail": "陸路、鉄路、海路、空路のすべてを中継した貨物ルートを構築する。"
+            },
+            {
+              "label": "走る博物館",
+              "detail": "1850年から現代までの各世代の車両を同時に運用する。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問 (FAQ)",
+      "description": "『Transport Fever 3』に関するよくある疑問や質問に回答します。",
+      "items": [
+        {
+          "question": "『Transport Fever 3』とはどんなゲームですか？",
+          "answer": "Urban Games が開発し Paradox Interactive が販売する総合交通シミュレーションです。鉄道、道路、水上、航空の交通インフラを整備し、物資と乗客を運んで都市を発展させ、巨大な輸送帝国を築きます。"
+        },
+        {
+          "question": "『Transport Fever 3』はいつ発売されますか？",
+          "answer": "2026年にPC、Mac、Linux、PlayStation 5、Xbox Series X|S 向けに発売予定です。"
+        },
+        {
+          "question": "ゲームには何種類の乗り物が登場しますか？",
+          "answer": "列車、バス、トラック、貨物船、旅客機など、歴史的な名車から最新モデルまで300種類以上の乗り物が精密にモデル化されて登場します。"
+        },
+        {
+          "question": "MODやSteamワークショップに対応していますか？",
+          "answer": "はい、強力なMOD対応を備えており、内蔵MODブラウザやSteamワークショップを通じてコミュニティ制作の車両やマップ、建物を簡単に導入できます。"
+        },
+        {
+          "question": "どんなエディションが用意されていますか？",
+          "answer": "通常版（Standard Edition）のほか、限定ボーナス車両や特別スキンが付属するデラックス版（Deluxe Edition）、特製特典付きのコレクターズ版（Collector's Edition）が展開されます。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "あなたの輸送帝国を築き上げよう",
+      "description": "最初のレール敷設から、陸海空を結ぶグローバルな物流網の統括まで——当攻略Wikiでは常に最新かつ無料のガイドをお届けします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steamで予約注文"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "最新コード",
+    "updated": "更新日",
+    "viewAllCodes": "コード一覧を見る",
+    "playOnRoblox": "Steamで予約注文",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "困ったときは？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "現在利用可能なガイドはありません。更新をお待ちください！"
+  },
+  "footer": {
+    "aboutTitle": "Transport Fever 3 Wiki",
+    "about": "Transport Fever 3 日本語攻略 Wiki は、車両一覧、路線管理、鉄道信号システム、経済戦略、物流システムを網羅する非公式ファンサイトです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド一覧",
+    "legal": "法的表記",
+    "copyright": "2026 Transport Fever 3 Wiki. Urban Games および Paradox Interactive との関係はありません。",
+    "description": "Urban Games と Paradox Interactive による本格交通マネジメントシミュレーション。鉄道網の構築、物流の最適化、都市の発展を目指そう。",
+    "playGame": "Steamで予約注文",
+    "officialDiscord": "Steam コミュニティ",
+    "officialYoutube": "公式トレーラー",
+    "vvBuilder": "路線プランナー",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "乗り物カタログ",
+    "bossGuides": "物流ガイド",
+    "buildGuide": "路線運営戦略",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  },
+  "guide": {
+    "overviewTitle": "Transport Fever 3 ガイド＆総合攻略",
+    "overviewDescription": "初心者向けチュートリアル、キャンペーンシナリオ攻略、都市交通計画、最適な路線構築戦略をお届けします。"
+  },
+  "mechanics": {
+    "overviewTitle": "Transport Fever 3 ゲームシステム・メカニクス",
+    "overviewDescription": "経済収支、貨物チェーン、乗客の流動モデル、複線信号システム、協力マルチプレイの仕組みを徹底解説。"
+  },
+  "vehicles": {
+    "overviewTitle": "Transport Fever 3 乗り物カタログ＆データベース",
+    "overviewDescription": "各時代の蒸気・ディーゼル・電気機関車、路面電車、バス、トラック、船舶、航空機を完全網羅。"
+  },
+  "editions": {
+    "overviewTitle": "Transport Fever 3 エディション比較＆予約情報",
+    "overviewDescription": "Standard、Deluxe、Collector's Edition の特典比較、限定ボーナス車両、Steam キー有効化手順のまとめ。"
+  },
+  "platforms": {
+    "overviewTitle": "Transport Fever 3 対応機種＆動作環境",
+    "overviewDescription": "推奨・最低動作スペック、Steam Deck 動作状況、Mac 対応、PS5 および Xbox Series X/S 版の詳細。"
+  },
+  "release": {
+    "overviewTitle": "Transport Fever 3 発売日＆最新ニュース",
+    "overviewDescription": "公式発売スケジュール、ベータテスト情報、公式トレーラー解説、価格設定、開発ロードマップの最新情報。"
+  },
+  "mods": {
+    "overviewTitle": "Transport Fever 3 MOD＆Steamワークショップ",
+    "overviewDescription": "導入必須のおすすめMOD、Steam ワークショップ活用法、カスタム大型マップ、道路交通最適化MODの解説。"
+  }
+}
