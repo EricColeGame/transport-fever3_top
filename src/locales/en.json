@@ -39,260 +39,316 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master early route planning, depot setup, and cargo supply chains with our core onboarding guide."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Profitable Routes",
+          "description": "Establish high-margin point-to-point industrial corridors early to ensure steady cash flow."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Vehicle Fleet Selection",
+          "description": "Balance top speed, running costs, and freight capacity when choosing steam, diesel, or road transport."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Transport Fever 3."
+          "title": "Supply Chain Basics",
+          "description": "Connect raw resource extractors to processing plants and deliver finished goods directly to cities."
         }
       ]
     },
     "popular": {
-      "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "eyebrow": "Popular Guides",
+      "title": "Trending Topics",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Rail Networks",
+        "Cargo Logistics",
+        "Fleet Management",
+        "Curated Mods"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Essential early-game steps covering depots, route creation, and financial stability.",
+          "href": "/guide/transport-fever-3-beginners-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Core",
+          "title": "Vehicle Roster",
+          "description": "Complete breakdown of 300+ trains, trucks, ships, and airplanes across technological eras.",
+          "href": "/vehicles/transport-fever-3-vehicles"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Strategy",
+          "title": "Economy Guide",
+          "description": "Manage maintenance costs, cargo rates, and loan repayments to scale your transport empire.",
+          "href": "/mechanics/transport-fever-3-economy"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Guide",
+          "title": "Campaign Missions",
+          "description": "Detailed walkthroughs for historical scenarios and era progression milestones.",
+          "href": "/guide/transport-fever-3-campaign"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Community",
+          "title": "Mods & Workshop",
+          "description": "Curated mods program, Steam Workshop support, and custom station assets.",
+          "href": "/mods/transport-fever-3-mods"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Mechanics",
+          "title": "Cargo Supply Chains",
+          "description": "Optimizing industrial production lines, warehousing, and multi-modal logistics transfers.",
+          "href": "/mechanics/transport-fever-3-cargo"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Release",
+          "title": "Release & Editions",
+          "description": "Launch date details, platform availability, and Standard vs. Deluxe edition perks.",
+          "href": "/editions/transport-fever-3-standard-vs-deluxe"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Tactics",
+          "title": "Gameplay Tips",
+          "description": "Essential strategies for signal placement, junction grading, and bypass routing.",
+          "href": "/guide/transport-fever-3-tips"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Transport Fever 3?",
       "paragraphs": [
-        "Transport Fever 3 is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Transport Fever 3 is the next-generation transport management and tycoon simulation developed by Urban Games and published by Paradox Interactive. Players step into the role of a transport magnate, designing intricate transit networks across land, sea, and air through distinct historical eras starting from 1850 into the modern age.",
+        "From laying complex railway corridors and configuring modular hubs to balancing dynamic multi-industry supply chains and urban traffic, Transport Fever 3 delivers unparalleled simulation depth, authentic vehicle rosters, and powerful modding support."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Urban Games"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Publisher",
+          "value": "Paradox Interactive"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Transport Tycoon"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Vehicles",
+          "value": "300+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Environments",
+          "value": "4 Biomes"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Languages",
+          "value": "13"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Release Year",
+          "value": "2026"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Transport Fever 3 Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master your transport tycoon empire with essential progression guides, vehicle rosters, economy strategies, and network planning tutorials.",
       "modules": [
         {
           "order": 1,
-          "name": "Transport Fever 3 Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/transport-fever-3-codes",
-          "displayType": "code-box",
+          "name": "Transport Fever 3 Beginner Guide",
+          "description": "A beginner-friendly guide covering the core gameplay loop, transport network planning, economy basics, and how to start building a profitable company.",
+          "href": "/guide/transport-fever-3-beginners-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Inspect city demands and locate nearby raw material production sites."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Build vehicle depots and station terminals close to cargo hubs."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Connect rail tracks or roadways with direct point-to-point routes."
+            },
+            {
+              "label": "4",
+              "detail": "Assign high-capacity vehicles and balance line maintenance costs."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/transport-fever-3-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Transport Fever 3 Vehicles Guide",
+          "description": "A comprehensive tier breakdown of available transportation options including trains, trucks, ships, and aircraft across historical eras.",
+          "href": "/vehicles/transport-fever-3-vehicles",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "S",
+              "detail": "High-Speed Rail: Peak capacity and long-haul intercity profitability."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "A",
+              "detail": "Heavy Freight Locomotives: Superior tractive effort for bulk cargo."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "B",
+              "detail": "Urban Trams & Buses: Efficient passenger feeder lines reducing traffic."
+            },
+            {
+              "label": "C",
+              "detail": "Early Steam Feeders: Essential for early-era local distribution."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/transport-fever-3-tier-list",
-          "displayType": "tier-grid",
+          "name": "Transport Fever 3 Economy Guide",
+          "description": "Explains money management, profitable routes, maintenance costs, cargo delivery, and how to expand a transport empire efficiently.",
+          "href": "/mechanics/transport-fever-3-economy",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "1",
+              "detail": "Prioritize high-margin two-way freight lines to avoid empty backhauls."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "2",
+              "detail": "Monitor vehicle condition to prevent spiraling maintenance expenses."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "3",
+              "detail": "Leverage early loans cautiously to fund revenue-generating expansions."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "4",
+              "detail": "Scale station catchment areas to maximize passenger ticket revenue."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/transport-fever-3-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Transport Fever 3 Maps Guide",
+          "description": "Covers map environments, climate zones, terrain challenges, and strategies for designing efficient networks across different regions.",
+          "href": "/mods/transport-fever-3-map-size",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Temperate",
+              "detail": "Balanced rolling hills and predictable weather ideal for beginners."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Desert",
+              "detail": "Vast distances between settlements demanding long-distance rail corridors."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Tropical",
+              "detail": "Dense water bodies and islands requiring integrated maritime shipping."
+            },
+            {
+              "label": "Alpine",
+              "detail": "Severe elevation gradients requiring bridges, tunnels, and powerful engines."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/transport-fever-3-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Transport Fever 3 Mods Guide",
+          "description": "Provides information about mod support, integrated mod browsing, and ways players can customize their transport experience.",
+          "href": "/mods/transport-fever-3-mods",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Mod Hub",
+              "detail": "In-game browser for seamless installation and dependency management."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Vehicles",
+              "detail": "Community-crafted regional locomotives, historic liveries, and trailers."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Stations",
+              "detail": "Modular platforms, underground metro assets, and custom track geometry."
+            },
+            {
+              "label": "Scripts",
+              "detail": "Custom timetable scripts, line management tools, and sandbox cheats."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/transport-fever-3-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Transport Fever 3 Campaign Guide",
+          "description": "Introduces the campaign missions, historical scenarios, and progression structure across diverse transport milestones.",
+          "href": "/guide/transport-fever-3-campaign",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "1",
+              "detail": "Pioneer Era: Establish early railway links and fulfill pioneer objectives."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "2",
+              "detail": "Industrial Boom: Connect raw resource chains to power rapidly growing cities."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "3",
+              "detail": "Modern Transit: Modernize corridors with electrified tracks and airports."
+            },
+            {
+              "label": "4",
+              "detail": "Network Mastery: Complete bonus achievements and master logistical bottlenecks."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Transport Fever 3 News & Updates",
+          "description": "A regularly updated section covering official announcements, development blogs, release information, and gameplay reveals.",
+          "href": "/release/transport-fever-3-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "SEP 2026",
+              "detail": "Official launch window confirmed across PC, Mac, and Consoles."
+            },
+            {
+              "label": "STEAM",
+              "detail": "Pre-purchase page live with Deluxe and Standard edition offerings."
+            },
+            {
+              "label": "DEVBLOG",
+              "detail": "Deep dives into dynamic traffic, modular stations, and economy systems."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Transport Fever 3 Achievements Guide",
+          "description": "A collection of milestone tips and keyboard controls for players aiming to master network efficiency.",
+          "href": "/guide/transport-fever-3-tips",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Shift",
+              "detail": "Fine-tune track curvature and station elevation increments."
+            },
+            {
+              "label": "M / N",
+              "detail": "Adjust track gradient and bridge heights during construction."
+            },
+            {
+              "label": "Ctrl",
+              "detail": "Snap station modules and align multi-track parallel segments."
             }
           ]
         }
@@ -304,23 +360,23 @@
       "items": [
         {
           "question": "What is Transport Fever 3?",
-          "answer": "Transport Fever 3 is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Transport Fever 3 is a comprehensive transport management simulation game developed by Urban Games and published by Paradox Interactive. Players construct rail, road, maritime, and air logistics infrastructure to grow economies and connect thriving cities across multiple eras."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "When will Transport Fever 3 be released?",
+          "answer": "Transport Fever 3 is scheduled to launch in 2026 for PC, Mac, Linux, PlayStation 5, and Xbox Series X|S."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How many vehicles are available in Transport Fever 3?",
+          "answer": "Transport Fever 3 features over 300 faithfully modeled historical and modern vehicles, including trains, buses, trucks, cargo ships, and aircraft."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Does Transport Fever 3 support mods and the Steam Workshop?",
+          "answer": "Yes, Transport Fever 3 features robust modding support with an integrated mod browser and Steam Workshop integration for community-created vehicles, maps, and custom assets."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What editions are available for Transport Fever 3?",
+          "answer": "Transport Fever 3 is available in Standard Edition, Deluxe Edition featuring exclusive bonus vehicles and cosmetic skins, and a physical Collector's Edition."
         }
       ]
     },
